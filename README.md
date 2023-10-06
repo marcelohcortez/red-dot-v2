@@ -4,6 +4,8 @@ Refactor of a simple project to generate red dots on the browser on the X and Y 
 Also with 2 functions, one for 'undo' and other for 'redo'.
 In this version, the project was created with Vite and Sass.
 
+**LIVE DEMO: https://red-dot-v2.marceloh2.repl.co/**
+
 # Specifications
 - The user must be able to click on any part of the page
 - For every click, the application must render a red dot in the exact place the click happened
